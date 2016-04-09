@@ -1,0 +1,11 @@
+{
+  "name": "curlemu",
+  "license": "LGPL",
+  "tags": ["curl"],
+  "description": "Curl emulation throught native haxe Http.",
+  "contributors": ["yar3333"],
+  "releasenote": "First release.",
+  "version": "1.0.0",
+  "url": "https://bitbucket.org/yar3333/haxe-curlemu",
+  "dependencies": {}
+}
